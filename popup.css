@@ -1,0 +1,35 @@
+html,body{
+    text-align: center;
+    width: 150px;
+}
+
+img{
+    width: 54px;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.fa{
+    padding: 15px;
+    font-size: 45px;
+    color: black;
+}
+
+.fa-facebook:hover{
+    color: rgb(0, 174, 255);
+}
+
+.fa-instagram:hover{
+    color: rgb(195, 0, 255);
+}
+
+.fa-youtube:hover{
+    color: rgb(255, 0, 0);
+}
+
+.fa-github:hover{
+    color: rgb(94, 93, 93);
+}
